@@ -25,7 +25,15 @@
 
 # Casos de uso
 
- - Mapa mostrando areas de risco
+ - Mapa mostrando áreas de risco
  - Gerador de senhas
  - Guarda login e senhas
+ - Mostra locais com policiamento
+ - Lista de ocorrências
+ - Filtrar ocorrências por data
+ - Estatística de crimes
+ - Cadastro de ocorrências por usuários
+ - Notificações quando o usuário está próximo de uma área de risco
+ - Caso o usuário esteja em uma área de risco, orientar seguir a áreas seguras
+ - Informar leis
 
