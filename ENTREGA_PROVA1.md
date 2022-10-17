@@ -1,13 +1,14 @@
  
-# Topicos Integradores II
+# Topicos Integradores II - 1V.A.
 
-# Motivação
-O projeto que estamos desenvolvendo sobre segurança pública vai de encontro a ODS(ONU) Nº11 cidades e comunidades sustentavéis. Numa sociedade onde a criminalidade toma conta das ruas, e pelo grande registro de BO´s (boletim de ocorrência), e a facilidade com que tem acontecido diversos furtos e roubos, inclusive com membros da nossa equipe, decidimos então entrar com esse projeto, que visa a criação de um aplicativo que ajude, e minimize os riscos que um cidadão passa por estar em áreas perigosas ou até mesmo em locais onde há registros de roubos e assaltos.
+# O.D.S
+O projeto que estamos desenvolvendo sobre segurança pública vai a luz dos ODS(Objetivo de Desenvolvimento Sustentável da UNO);
+Nº16 Paz, Justiça e Instituições Eficazes - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis.
+16.1 Reduzir significativamente todas as formas de violência e as taxas de mortalidade relacionada em todos os lugares. 
+
+Numa sociedade onde a criminalidade toma conta das ruas, e pelo grande registro de BO´s (boletim de ocorrência), e a facilidade com que tem acontecido diversos furtos e roubos, inclusive com membros da nossa equipe, decidimos então entrar com esse projeto, que visa a criação de um aplicativo que ajude, e minimize os riscos que um cidadão passa por estar em áreas perigosas ou até mesmo em locais onde há registros de roubos e assaltos.
 
 
-
-
-# ODS - 11 Cidades e Comunidades Sustentáveis
 
 
 
@@ -38,4 +39,3 @@ O projeto que estamos desenvolvendo sobre segurança pública vai de encontro a 
  - Notificações quando o usuário está próximo de uma área de risco
  - Caso o usuário esteja em uma área de risco, orientar seguir a áreas seguras
  - Informar leis
-
