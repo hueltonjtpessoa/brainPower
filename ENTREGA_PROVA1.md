@@ -2,6 +2,8 @@
 # Topicos Integradores II
 
 # Motivação
+O projeto que estamos desenvolvendo sobre segurança pública vai de encontro a ODS(ONU) Nº16 Paz, Justiça e instituições eficazes. Numa sociedade onde a criminalidade toma conta das ruas, e pelo grande registro de BO´s (boletim de ocorrência), e a facilidade com que tem acontecido diversos furtos e roubos, inclusive com membros da nossa equipe, decidimos então entrar com esse projeto, que visa a criação de um aplicativo que ajude, e minimize os riscos que um cidadão passa por estar em áreas perigosas ou até mesmo em locais onde há registros de roubos e assaltos.
+
 
 
 
