@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aegis</string>
+
+    <string name="google_maps_api_key">AIzaSyC7vyUNpSXNDOulBrRrTEhG_3N6odxTEXE</string>
+
+    <string name="edit_text_hint_title">Título</string>
+    <string name="edit_text_hint_description">Descrição</string>
+    <string name="edit_text_hint_date">Data</string>
+    <string name="edit_text_hint_location">Localização</string>
+    <string name="text_add_image">ADD IMAGEM</string>
+    <string name="btn_text_save">SALVE</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">Nenhuma zona de perigo encontrada ainda. Por favor, adicione uma.</string>
+    <string name="image_content_description">imagem</string>
+
+    <string name="btn_text_view_on_map">VER NO MAPA</string>
+    <string name="add_place_select_current_location_text">SELECIONE O LOCAL ATUAL</string>
+</resources>
